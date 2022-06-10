@@ -16,7 +16,7 @@ body {
   /* Allow canvas to hit the edges of the browser viewport. */
   margin: 0;
 }
-
+#screen{height:100%}
 #screen canvas {
   margin: auto;
   /* Hide the gap for font descenders. */
